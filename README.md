@@ -1,5 +1,6 @@
 ## <h1>MERN ECOMMERCE WEBSITE PROJECT</h1>
 ## <p>Frontend Part</p>
+## <p>Backend Part: https://github.com/Nawaf-Rayhan585/Inventory-MERN-Project-Backend</p>
 
 <p>
 🌐 Welcome to Our eCommerce Website - Shop with ease and convenience!
